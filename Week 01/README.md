@@ -53,7 +53,17 @@ Ungraded External Tool•. Duration: 1 hour1h
 ### Graded Quiz: Web Scraping
 Graded Quiz•2 questions •Grade: 50%
 
+## Explore Data
+### About The Dataset
 
+### Hands-on Lab 5: Explore the Data Set
+Reading•. Duration: 30 minutes30 min
+
+### (Optional) Hands-on Lab 5: Explore the Data Set
+Ungraded External Tool•. Duration: 1 hour1h
+
+### Graded Quiz: Exploring Data
+Graded Quiz•3 questions •Grade: 100%
 
 
 
