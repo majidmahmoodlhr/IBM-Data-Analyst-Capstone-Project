@@ -9,3 +9,11 @@ Please check the box and click on the "Open Tool"  button below to get a unique 
 We have also provided you with the stepwise instructions on how to create an IBM Cloud account for your reference.
 
 NOTE: If you have already applied your IBM Cloud feature code in another course/lab to create an IBM Cloud account, please skip this item, as the code can only be used once. 
+
+
+
+This course uses a third-party tool, Obtain an IBM Cloud Feature Code, to enhance your learning experience. The tool will reference basic information like your name, email, and Coursera ID.
+
+Coursera Honor Code
+
+I agree to use this tool responsibly.
